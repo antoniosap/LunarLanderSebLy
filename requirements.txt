@@ -1,0 +1,7 @@
+# conda install selenium
+# fare:
+# info: https://www.selenium.dev/selenium/docs/api/py/index.html
+# google-chrome --version
+# Google Chrome 91.0.4472.77
+# wget https://chromedriver.storage.googleapis.com/91.0.4472.19/chromedriver_linux64.zip
+# sudo cp chromedriver /usr/local/bin
